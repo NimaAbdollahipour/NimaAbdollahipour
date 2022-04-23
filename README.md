@@ -4,7 +4,8 @@
 **NimaAbdollahipour/NimaAbdollahipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 - ✔  I'm a software engineering student currently and I have a bachelors degree in electrical engineering
 - 🔭 I’m currently working on an onilne examination system with flask
 - 👯 I’m looking to collaborate on flask and python projects
--->
+
