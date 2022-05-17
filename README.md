@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an onilne examination system with flask
 - 👯 I’m looking to collaborate on flask and python projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaAbdollahipour)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
