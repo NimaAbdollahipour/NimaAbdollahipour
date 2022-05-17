@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on flask and python projects
 
 #### Stats
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NimaAbdollahipour&hide=html,css)
-- ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaAbdollahipour&show_icons=true&theme=radical)
-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NimaAbdollahipour&repo=TicketFinder)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NimaAbdollahipour&hide=html,css)
+
+
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaAbdollahipour&show_icons=true&theme=radical)
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NimaAbdollahipour&repo=TicketFinder)
