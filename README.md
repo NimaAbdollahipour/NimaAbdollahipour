@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - ✔  I'm a software engineering student
-- 🔭 I’m currently working on an onilne examination system with flask
-- 👯 I’m looking to collaborate on flask and python projects
+- 🔭 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Flask, Python and JavaScript(front-End) projects
 
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NimaAbdollahipour&layout=compact&hide=html,css,cpp)
