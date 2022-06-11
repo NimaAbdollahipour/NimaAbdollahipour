@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NimaAbdollahipour&layout=compact&hide=html,css,cpp)
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaAbdollahipour&show_icons=true&theme=radical)
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NimaAbdollahipour&repo=TicketFinder)
