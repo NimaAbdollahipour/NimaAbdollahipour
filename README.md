@@ -3,7 +3,7 @@
 
 **NimaAbdollahipour/NimaAbdollahipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm NimaAbdollahipour 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NimaAbdollahipour&style=flat-square&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/NimaAbdollahipour?style=social)
 
@@ -33,18 +33,23 @@ I am a passionate software developer with a love for technology and continuous l
 - Python, JavaScript, and modern web development frameworks.
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:nima.abdollahi.a@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nimaabdollahipour)
+- Email: [nima.abdollahi.a@gmail.com](mailto:nima.abdollahi.a@gmail.com)
+- LinkedIn: [nimaabdollahipour](https://www.linkedin.com/in/nimaabdollahipour)
 
 ### 😄 Pronouns
 - He/Him
 
+<!--
 ### ⚡ Fun fact
 - I once cycled across three countries in Europe in one summer!
+-->
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
