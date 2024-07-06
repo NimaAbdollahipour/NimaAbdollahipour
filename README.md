@@ -65,10 +65,10 @@ I am a passionate software developer with a love for technology and continuous l
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimaAbdollahipour&show_icons=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NimaAbdollahipour&theme=onedark)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimaabdollahipour)
