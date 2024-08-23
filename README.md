@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**NimaAbdollahipour/NimaAbdollahipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm NimaAbdollahipour 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NimaAbdollahipour&style=flat-square&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/NimaAbdollahipour?style=social)
