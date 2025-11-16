@@ -5,41 +5,39 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NimaAbdollahipour&style=flat-square&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/NimaAbdollahipour?style=social)
 
 ## 🚀 About Me
-I am a passionate software developer with a love for technology and continuous learning. I enjoy tackling complex problems and creating efficient solutions.
-<!--
-### 🔭 I’m currently working on
-- Building a scalable microservices architecture for a fintech application.
-- Contributing to open-source projects in the AI/ML domain.
--->
+I am a software engineer passionate about AI, full-stack development, and solving real-world problems with cutting-edge technology. I enjoy building scalable applications, deploying machine learning models, and leading innovative projects.
 
 ### 🌱 I’m currently learning
-- Kubernetes and cloud-native application development.
-- Advanced machine learning algorithms and data science techniques.
+- Kubernetes and cloud-native application development
+- Advanced machine learning algorithms and data science techniques
 
 ### 👯 I’m looking to collaborate on
-- Open-source projects related to AI and machine learning.
-- Innovative projects in web development, mobile development and cloud computing.
-
-### 🤔 I’m looking for help with
-- Optimizing performance in large-scale distributed systems.
-- Implementing best practices for CI/CD in DevOps.
+- Open-source AI and machine learning projects
+- Web, mobile, and cloud-native applications
 
 ### 💬 Ask me about
-- Software architecture and design patterns.
-- DevOps practices and automation tools.
-- Python, JavaScript, and modern web development frameworks.
+- Software architecture and design patterns
+- DevOps practices and automation
+- Python, JavaScript, TypeScript, React, Django, and modern web frameworks
+
+### 🛠 Skills
+**Languages:** Python, JavaScript, TypeScript, Java, C#, C, PHP, SQL, HTML, CSS, Bash  
+**Frameworks & Libraries:** Django, Flask, FastAPI, Streamlit, React, React Native, Next.js, Angular, NestJS, Spring, Laravel, ASP.NET  
+**Databases:** PostgreSQL, MySQL, MS SQL Server, Oracle, MongoDB, Redis, DynamoDB, Neo4j  
+**DevOps & Cloud:** AWS, GCP, Azure, Docker, Kubernetes, Jenkins, Ansible, GitHub Actions  
+**AI & ML:** PyTorch, TensorFlow, Transformers, Scikit-learn, Pandas, Numpy, NLTK, Matplotlib  
+
+### 🏆 Highlights
+- Sentiment Analysis App: RoBERTa model achieving 91% accuracy  
+- Biliyo App: React + Django, competition module, image compression, rate limiting  
+- Greenhouse Automation: IoT system for real-time environmental control  
+- Awards: Dean’s High Honors, IEEE Xtreme 18 (16th place), National Programming Contests top 3
+
 
 ### 📫 How to reach me
 - Email: [nima.abdollahi.a@gmail.com](mailto:nima.abdollahi.a@gmail.com)
 - LinkedIn: [nimaabdollahipour](https://www.linkedin.com/in/nimaabdollahipour)
 
-### 😄 Pronouns
-- He/Him
-
-<!--
-### ⚡ Fun fact
-- I once cycled across three countries in Europe in one summer!
--->
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
